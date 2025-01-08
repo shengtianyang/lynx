@@ -114,4 +114,3 @@ class DefaultDataFrameOperator(expressionEvaluator: ExpressionEvaluator) extends
     }.getOrElse(false)
   }
 }package org.grapheco.lynx.dataframe
-
